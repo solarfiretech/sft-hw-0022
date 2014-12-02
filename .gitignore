@@ -1,3 +1,7 @@
-#backup files
-pcb/#*.*#
+# intermediate gEDA 
+#*.*#
 *.sch~
+*.pcb-
+*.net
+*.cmd
+
