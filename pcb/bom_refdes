@@ -1,0 +1,1 @@
+gnetlist -g partslist3 -o sft-hw-0022.txt sft-hw-0022-1.sch
