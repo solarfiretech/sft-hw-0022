@@ -1,7 +1,11 @@
 # intermediate gEDA 
-#*.*#
+pcb/#*.*#
 *.sch~
 *.pcb-
 *.net
 *.cmd
+*.new.*
+*.*.bak
+*.*.backup
+
 
